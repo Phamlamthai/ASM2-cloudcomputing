@@ -138,7 +138,7 @@
 	</div>
 </form>
 <?php 
-	$connect =mysqli_connect('localhost','root','','toys');
+	$connect =mysqli_connect('3.132.234.157','Thaipl','160702','Thaipl');
 if(!$connect)
 	{
 		echo "Not connect";

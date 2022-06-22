@@ -305,7 +305,7 @@ Resources
 <h3 style="text-align:center;color: blueviolet; text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;">Beautiful Toy Car Model</h3>
 	
 		<?php
-		$connect =mysqli_connect('localhost','root','','toys');
+		$connect =mysqli_connect('3.132.234.157','Thaipl','160702','Thaipl');
 		if(!$connect){
 			echo "Not connect";
 		}
